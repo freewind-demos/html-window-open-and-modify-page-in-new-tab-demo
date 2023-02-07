@@ -1,6 +1,6 @@
-Html IFrame onload Demo
+Html IFrame Url Mocking Demo
 =======================
 
 ```
-open index.html
+npm start
 ```
