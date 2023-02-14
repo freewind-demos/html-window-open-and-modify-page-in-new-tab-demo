@@ -1,7 +1,7 @@
-Html Form Target to IFrame of Parent Window Demo
+Html Window Open and Modify Page in New Tab Demo
 =======================
 
-把多层嵌套的iframe中的form的target写为一个外层的iframe，也可以成功把内容传过去
+可以用window.open打开同域名下的另一个页面，同时修改其内容
 
 ```
 npm start
